@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mon Application Docker</title>
+</head>
+<body>
+    <h1>Bonjour DevSecOps </h1>
+    <p>Mon premier conteneur fonctionne !</p>
+</body>
+</html>
