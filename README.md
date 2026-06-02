@@ -50,6 +50,13 @@ Le pipeline repose sur les composants suivants :
 * DAST
 * Sécurité des conteneurs
 * Automatisation des contrôles de sécurité
+# Captures du projet
+
+![Architecture](Screenshot%202026-06-03%20013702.png)
+
+## Jenkins
+
+![Jenkins](Screenshot%202026-06-03%20014532.png)
 
 ## Auteur
 
