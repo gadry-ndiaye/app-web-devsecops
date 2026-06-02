@@ -57,7 +57,11 @@ Le pipeline repose sur les composants suivants :
 ## Jenkins
 
 ![Jenkins](Screenshot%202026-06-03%20014532.png)
+## Jenkins Pipeline
 
+![Jenkins Pipeline](Screenshot%202026-06-03%20015252.png)
+
+Cette capture présente le pipeline Jenkins WebGoat-DevSecOps avec l'historique des builds, les stages d'exécution et l'intégration des contrôles de sécurité.
 ## Auteur
 
 Abdoul Gadry Ndiaye
