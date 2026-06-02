@@ -6,7 +6,9 @@ Ce projet a été réalisé dans le cadre de mon Mastère 1 Cybersécurité et C
 
 L'objectif est de mettre en œuvre une chaîne CI/CD sécurisée intégrant des contrôles de sécurité automatisés selon l'approche DevSecOps.
 
-## Architecture
+# Architecture DevSecOps
+
+![Architecture DevSecOps](Screenshot%202026-06-03%20013702.png)
 
 Le pipeline repose sur les composants suivants :
 
