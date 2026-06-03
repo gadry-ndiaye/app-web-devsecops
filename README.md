@@ -58,15 +58,8 @@ Le pipeline repose sur les composants suivants :
 ![Jenkins Pipeline](Screenshot%202026-06-03%20015252.png)
 Cette capture présente le pipeline Jenkins WebGoat-DevSecOps avec l'historique des builds, les stages d'exécution et l'intégration des contrôles de sécurité.
 ## Analyse SonarQube
-
 ![SonarQube](Screenshot%202026-06-03%20020223.png)
-
-## Scan Trivy
-
 ![Trivy](Screenshot%202026-06-03%20020302.png)
-
-## Test OWASP ZAP
-
 ![OWASP ZAP](Screenshot%202026-06-03%20020331.png)
 ## Auteur
 
