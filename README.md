@@ -64,8 +64,6 @@ Trivy a été utilisé pour analyser les dépendances de l'application et détec
 
 ### Résumé du scan
 
-![Trivy Summary](Screenshot%202026-06-03%20020405.png)
-
 ### Détail des vulnérabilités détectées
 
 ![Trivy Vulnerabilities](Screenshot%202026-06-03%20021232.png)
