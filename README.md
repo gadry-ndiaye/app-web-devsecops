@@ -80,7 +80,6 @@ Cette analyse présente les vulnérabilités détectées par OWASP ZAP ainsi que
 ### Détail des alertes de sécurité
 
 ![OWASP ZAP Alerts](Screenshot%202026-06-03%20022341.png)
-
 Les alertes générées permettent d'identifier les faiblesses de sécurité potentielles et de mettre en œuvre les mesures correctives nécessaires avant le déploiement.
 
 ### Bénéfices de l'intégration DAST
