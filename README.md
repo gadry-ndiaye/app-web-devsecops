@@ -1,4 +1,5 @@
-# DevSecOps CI/CD Security Automation
+# Automatisation des tests de sécurité dans la chaine CI/CD 
+# (Continious integration / Continuous deployment) 
 
 ## Description
 
