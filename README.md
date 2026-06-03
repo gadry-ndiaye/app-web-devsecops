@@ -58,6 +58,17 @@ Cette capture présente le pipeline Jenkins WebGoat-DevSecOps avec l'historique 
 ![SonarQube](Screenshot%202026-06-03%20020223.png)
 ![Trivy](Screenshot%202026-06-03%20020302.png)
 ![OWASP ZAP](Screenshot%202026-06-03%20020331.png)
+## Analyse des dépendances avec Trivy (SCA)
+
+Trivy a été utilisé pour analyser les dépendances de l'application et détecter les vulnérabilités connues (CVE).
+
+### Résumé du scan
+
+![Trivy Summary](Screenshot%202026-06-03%20020405.png)
+
+### Détail des vulnérabilités détectées
+
+![Trivy Vulnerabilities](Screenshot%202026-06-03%20021232.png)
 ## Auteur
 
 Abdoul Gadry Ndiaye
