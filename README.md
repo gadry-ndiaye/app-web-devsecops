@@ -84,13 +84,13 @@ Cette analyse présente les vulnérabilités détectées par OWASP ZAP ainsi que
 Les alertes générées permettent d'identifier les faiblesses de sécurité potentielles et de mettre en œuvre les mesures correctives nécessaires avant le déploiement.
 ![OWASP ZAP Scan](Screenshot%202026-06-03%20023121.png)
 ![OWASP ZAP Alerts](Screenshot%202026-06-03%20023203.png)
-### Bénéfices de l'intégration DAST
 
-- Détection précoce des vulnérabilités applicatives
-- Validation de la sécurité après déploiement
-- Réduction des risques avant la mise en production
-- Automatisation des contrôles de sécurité
-- Renforcement de l'approche DevSecOps
+Les résultats obtenus démontrent l’intérêt de cette approche. L’analyse réalisée avec SonarQube a permis d’identifier 35 
+bugs, 8 vulnérabilités, 69 Security Hotspots et 455 Code Smells, tout en validant le projet grâce à un Quality Gate Passed. 
+Les scans effectués avec Trivy ont révélé 292 vulnérabilités sur l’environnement analysé, dont 2 critiques, 35 élevées, 100 
+moyennes et 139 faibles, ainsi que 74 vulnérabilités supplémentaires dans les dépendances Maven et plusieurs secrets JWT 
+exposés dans le code source. De son côté, OWASP ZAP a détecté 8 alertes de sécurité, notamment l’absence de jetons Anti
+CSRF, des en-têtes HTTP de sécurité manquants et des configurations de cookies insuffisamment sécurisées. 
 ## Auteur
 
 Abdoul Gadry Ndiaye
