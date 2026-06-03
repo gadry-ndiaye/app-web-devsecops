@@ -81,7 +81,8 @@ Cette analyse présente les vulnérabilités détectées par OWASP ZAP ainsi que
 
 ![OWASP ZAP Alerts](Screenshot%202026-06-03%20022341.png)
 Les alertes générées permettent d'identifier les faiblesses de sécurité potentielles et de mettre en œuvre les mesures correctives nécessaires avant le déploiement.
-
+![OWASP ZAP Scan](Screenshot%202026-06-03%20023121.png)
+![OWASP ZAP Alerts](Screenshot%202026-06-03%20023203.png)
 ### Bénéfices de l'intégration DAST
 
 - Détection précoce des vulnérabilités applicatives
