@@ -67,6 +67,29 @@ Trivy a été utilisé pour analyser les dépendances de l'application et détec
 ### Détail des vulnérabilités détectées
 
 ![Trivy Vulnerabilities](Screenshot%202026-06-03%20021232.png)
+## Tests de sécurité dynamiques avec OWASP ZAP (DAST)
+
+OWASP ZAP a été intégré au pipeline DevSecOps afin d'effectuer des tests de sécurité dynamiques sur l'application déployée. Cette étape permet d'identifier les vulnérabilités exploitables avant la mise en production.
+
+### Résultats du scan DAST
+
+![OWASP ZAP Scan](Screenshot%202026-06-03%20022316.png)
+
+Cette analyse présente les vulnérabilités détectées par OWASP ZAP ainsi que leur niveau de criticité.
+
+### Détail des alertes de sécurité
+
+![OWASP ZAP Alerts](Screenshot%202026-06-03%20022341.png)
+
+Les alertes générées permettent d'identifier les faiblesses de sécurité potentielles et de mettre en œuvre les mesures correctives nécessaires avant le déploiement.
+
+### Bénéfices de l'intégration DAST
+
+- Détection précoce des vulnérabilités applicatives
+- Validation de la sécurité après déploiement
+- Réduction des risques avant la mise en production
+- Automatisation des contrôles de sécurité
+- Renforcement de l'approche DevSecOps
 ## Auteur
 
 Abdoul Gadry Ndiaye
