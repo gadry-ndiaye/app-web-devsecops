@@ -50,6 +50,7 @@ Le pipeline repose sur les composants suivants :
 * Automatisation des contrôles de sécurité
 # Captures du projet
 ![Architecture](Screenshot%202026-06-03%20013702.png)
+![Security Report](Screenshot%202026-06-03%20024413.png)
 ## Jenkins
 ![Jenkins](Screenshot%202026-06-03%20014532.png)
 ## Jenkins Pipeline
